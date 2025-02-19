@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there I am Vince Charles de Guzman 👋
 
-<!--
-**vincecharles/vincecharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** About Me
+Hello! My name is **Vince Charles de Guzman**. I am 23 years old and live
+in **Manila, Philippines**. I was born on **August 19, 2001**.
 
-Here are some ideas to get you started:
+## Education
+I am a college student at **FEATI University**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬  Learning
+
+I am currently learning:
+- **Python**
+- **JavaScript**
+
+##  📫 Contact
+Feel free to reach out to me for any collaboration or queries.
+
+## 😄 Pronouns: He/His
+
+
