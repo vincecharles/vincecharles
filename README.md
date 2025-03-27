@@ -1,6 +1,6 @@
 ## Hi there I am Vince Charles de Guzman 👋
 
-** About Me
+## About Me
 Hello! My name is **Vince Charles de Guzman**. I am 23 years old and live
 in **Manila, Philippines**. I was born on **August 19, 2001**.
 
