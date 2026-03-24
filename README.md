@@ -4,9 +4,6 @@
 Hello! My name is **Vince Charles de Guzman**. I am 23 years old and live
 in **Manila, Philippines**. 
 
-## Education
-I am a college student at **FEATI University**.
-
 ## 💬  Learning
 
 I am currently learning:
