@@ -7,10 +7,9 @@ in **Manila, Philippines**.
 ## 💬  Learning
 
 I am currently learning:
-- **Python**
-- **JavaScript**
-- **React**
-- **NextJS**
+- **Django**
+- **Docker**
+
 
 ##  📫 Contact
 Feel free to reach out to me for any collaboration or queries.
